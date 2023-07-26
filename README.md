@@ -15,10 +15,13 @@ in this part, user can see all types of room that is available and public spaces
 ### Order
 in this part, user can order a room by inputting their personal data. After confirming user will be redirected to confirm the data that has been inputted.
 
-## something something
+## Upcoming
 This current version is still the baseline of OmamaHouse website. There are many features that needs to be done in the upcoming future, such as,
 1. Order page needs to contain much more data to input such as parents, Identity card image, room type, and many more.
 2. Available room in Facility components need to be dynamic following the current situation
 3. Authentication for the admin
 4. limitation to 1 on checkboxes on Location component
 5. Overview for Admin on the renter data, room data, and many more.
+
+
+
