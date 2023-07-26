@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OmamaHouse/static/css/main.4da62354.css",
+    "main.js": "/OmamaHouse/static/js/main.3ca2e3cf.js",
+    "static/media/locationb-map.jpg": "/OmamaHouse/static/media/locationb-map.801ae59216e9a46b5516.jpg",
+    "static/media/locationc-map.jpg": "/OmamaHouse/static/media/locationc-map.49842e2e4e05ee77c54a.jpg",
+    "static/media/locationa-map.jpg": "/OmamaHouse/static/media/locationa-map.64312aa302c3d4d165a1.jpg",
+    "static/media/locationd-map.jpg": "/OmamaHouse/static/media/locationd-map.30335dfd1bbd85ffc131.jpg",
+    "static/media/facility-publicspace1.png": "/OmamaHouse/static/media/facility-publicspace1.0079d8fefa2c70090909.png",
+    "static/media/home-detailing1.png": "/OmamaHouse/static/media/home-detailing1.f6e8aaa4ffb86536057e.png",
+    "static/media/facility-publicspace2.png": "/OmamaHouse/static/media/facility-publicspace2.a93011b301cff5fcfc02.png",
+    "static/media/location-map.png": "/OmamaHouse/static/media/location-map.03ad0515ba520161694b.png",
+    "static/media/facility-roomimg.png": "/OmamaHouse/static/media/facility-roomimg.b47414525f36890d4687.png",
+    "static/media/facility-room2.png": "/OmamaHouse/static/media/facility-room2.d7df05f38b61d26dc228.png",
+    "static/media/facility-room3.png": "/OmamaHouse/static/media/facility-room3.5e441dc6b60cef123403.png",
+    "static/media/omama-logo.png": "/OmamaHouse/static/media/omama-logo.3554769c76db1f9f2c0a.png",
+    "static/media/home-detailing2.png": "/OmamaHouse/static/media/home-detailing2.859bb9d35b6059d5a06e.png",
+    "index.html": "/OmamaHouse/index.html",
+    "main.4da62354.css.map": "/OmamaHouse/static/css/main.4da62354.css.map",
+    "main.3ca2e3cf.js.map": "/OmamaHouse/static/js/main.3ca2e3cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.3ca2e3cf.js"
+  ]
+}
