@@ -2,6 +2,9 @@
 body{
     background-color: #F5EFDA !important;
 }
+a{
+    text-decoration: none;
+}
 
 /* CLASS */
 /* HEADER */
@@ -257,8 +260,7 @@ body{
     left: 7%;
     border: solid black 2px;
     border-radius: 5px;
-    width: 500px;
-    height: 508px;
+    width: 30%;
 }
 
 .mapping-location-animation{
@@ -287,7 +289,7 @@ body{
     top: 22%;
     font-size: 7.35rem;
     margin-bottom: 0;
-    width: 700px;
+    width: 40%;
 }
 
 .item-location{
@@ -621,4 +623,87 @@ td{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.5rem;
     letter-spacing: .2rem;
+}
+
+@media (max-width: 1000px) {
+    .item-location{
+        font-size: 50%;
+    }
+    .list-location{
+        font-size: 400%;
+    }
+    .distance-location{
+        height: 100px;
+    }
+    .mapping-location-static{
+        width: 35%;
+    }
+    .detailing-location {
+        top: 44%;
+        left: 23%;
+    }    
+    #location{
+        margin-bottom: 0;
+    }
+    .title-home{
+        font-size: 800%;
+        top: 20%;
+    }
+    .subtitle-home{
+        top: 33%;
+        font-size: 600%;
+    }
+    .tagline-home {
+        font-size: 150%;
+    }
+    .catchphrase-home {      
+        font-size: 200%;
+        bottom: 40%;
+        left: 53%;
+    }
+    .rectangle1-home {
+        left: 26%;
+        top: 49%;
+    }
+    .order{
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .order-msg-box{
+        position: static;
+        height: 30%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .order-form{
+        width: 100%;
+        position: static;
+        height: 70%;
+    }
+    .order-msg{
+        position: static;
+        font-size: 700%;
+        text-align: center;
+        margin: auto 0;
+    }
+    .confirmation{
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .confirmation .title {
+        width: 45%;
+        text-align: left;
+        margin-bottom: 20px;
+        font-size: 300%;
+    }
+    .confirmation .data{
+        width: 45%;
+        font-size: 300%;
+    }
+
 }

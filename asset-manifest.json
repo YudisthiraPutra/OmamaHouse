@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omama-house/static/css/main.4da62354.css",
-    "main.js": "/omama-house/static/js/main.59cce464.js",
+    "main.js": "/omama-house/static/js/main.a98436df.js",
     "static/media/locationb-map.jpg": "/omama-house/static/media/locationb-map.801ae59216e9a46b5516.jpg",
     "static/media/locationc-map.jpg": "/omama-house/static/media/locationc-map.49842e2e4e05ee77c54a.jpg",
     "static/media/locationa-map.jpg": "/omama-house/static/media/locationa-map.64312aa302c3d4d165a1.jpg",
@@ -17,10 +17,10 @@
     "static/media/home-detailing2.png": "/omama-house/static/media/home-detailing2.859bb9d35b6059d5a06e.png",
     "index.html": "/omama-house/index.html",
     "main.4da62354.css.map": "/omama-house/static/css/main.4da62354.css.map",
-    "main.59cce464.js.map": "/omama-house/static/js/main.59cce464.js.map"
+    "main.a98436df.js.map": "/omama-house/static/js/main.a98436df.js.map"
   },
   "entrypoints": [
     "static/css/main.4da62354.css",
-    "static/js/main.59cce464.js"
+    "static/js/main.a98436df.js"
   ]
 }
