@@ -19,30 +19,30 @@ function Confirmation(){
     
       console.log(email)
     const HandleSubmit =async (e)=>{
-        console.log(email)
-        e.preventDefault();
-        let result = await fetch(
-            'http://localhost:4000/confirmation',{
-                method:"post",
-                body: JSON.stringify({email,name,idNum,addr,pn,uni,fac,maj}),
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-        })
-        result = await result.json;
-        console.warn(result);
-        if (result) {
-            alert("Data saved succesfully");
-            setEmail("");
-            setName("");
-            setIdNum("")
-            setAddr("")
-            setPn("");
-            setUni("");
-            setFac("");
-            setMaj("");
+    //     console.log(email)
+    //     e.preventDefault();
+    //     let result = await fetch(
+    //         'http://localhost:4000/confirmation',{
+    //             method:"post",
+    //             body: JSON.stringify({email,name,idNum,addr,pn,uni,fac,maj}),
+    //             headers: {
+    //                 'Content-Type': 'application/json'
+    //             }
+    //     })
+        // result = await result.json;
+        // console.warn(result);
+        // if (result) {
+        //     alert("Data saved succesfully");
+        //     setEmail("");
+        //     setName("");
+        //     setIdNum("")
+        //     setAddr("")
+        //     setPn("");
+        //     setUni("");
+        //     setFac("");
+        //     setMaj("");
             navigate("/payment");
-        }
+        // }
     }
     return(
         <div className="confirmation">
